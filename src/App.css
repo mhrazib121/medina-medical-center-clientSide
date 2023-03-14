@@ -28,10 +28,29 @@
   color: #61dafb;
 }
 
+.text-color-primary {
+  color: #2CAEE2;
+}
+
+.bg-color-primary {
+  background: #2CAEE2;
+}
+
+.bg-color-secondary {
+  background: #14457B;
+}
+
+.bg-color-light {
+  background-color: #D3E9FB;
+}
+
+;
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
