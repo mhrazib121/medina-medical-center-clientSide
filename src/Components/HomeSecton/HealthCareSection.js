@@ -7,7 +7,7 @@ import person2 from "../../assets/Doctors/person-2.png";
 const HealthCareSection = () => {
     const { color } = useTheme();
     return (
-        <div className="w-screen  hero min-h-screen">
+        <div className="w-screen  hero min-h-screen mt-20">
             <div className="hero-content pb-0 flex-col lg:flex-row-reverse">
                 <img src={Feature1} alt="Doctor" className="max-w-screen-sm rounded-lg " />
                 <div className=''>
